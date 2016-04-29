@@ -682,6 +682,6 @@ Pod::Spec.new do |s|
 
     ss.dependency 'gRPC/GRPCClient'
     ss.dependency 'gRPC/RxLibrary'
-    ss.dependency 'Protobuf', '~> 3.0.0-alpha-4'
+    ss.dependency 'Protobuf', '~> 3.0.0-beta-2'
   end
 end
